@@ -1,0 +1,202 @@
+{
+  "619 (Entry 1)": {
+    "dyer": {
+      "rad": {
+        "visit_id": "619",
+        "person_id": "dyer",
+        "quantity": "rad",
+        "reading": "9.82"
+      }
+    }
+  },
+  "619 (Entry 2)": {
+    "dyer": {
+      "sal": {
+        "visit_id": "619",
+        "person_id": "dyer",
+        "quantity": "sal",
+        "reading": "0.13"
+      }
+    }
+  },
+  "622 (Entry 3)": {
+    "dyer": {
+      "rad": {
+        "visit_id": "622",
+        "person_id": "dyer",
+        "quantity": "rad",
+        "reading": "7.8"
+      }
+    }
+  },
+  "622 (Entry 4)": {
+    "dyer": {
+      "sal": {
+        "visit_id": "622",
+        "person_id": "dyer",
+        "quantity": "sal",
+        "reading": "0.09"
+      }
+    }
+  },
+  "734 (Entry 5)": {
+    "pb": {
+      "rad": {
+        "visit_id": "734",
+        "person_id": "pb",
+        "quantity": "rad",
+        "reading": "8.41"
+      }
+    }
+  },
+  "734 (Entry 6)": {
+    "lake": {
+      "sal": {
+        "visit_id": "734",
+        "person_id": "lake",
+        "quantity": "sal",
+        "reading": "0.05"
+      }
+    }
+  },
+  "734 (Entry 7)": {
+    "pb": {
+      "temp": {
+        "visit_id": "734",
+        "person_id": "pb",
+        "quantity": "temp",
+        "reading": "-21.5"
+      }
+    }
+  },
+  "735 (Entry 8)": {
+    "pb": {
+      "rad": {
+        "visit_id": "735",
+        "person_id": "pb",
+        "quantity": "rad",
+        "reading": "7.22"
+      }
+    }
+  },
+  "735 (Entry 9)": {
+    "pb": {
+      "sal": {
+        "visit_id": "735",
+        "person_id": "pb",
+        "quantity": "sal",
+        "reading": "0.06"
+      }
+    }
+  },
+  "735 (Entry 10)": {
+    "pb": {
+      "temp": {
+        "visit_id": "735",
+        "person_id": "pb",
+        "quantity": "temp",
+        "reading": "-26.0"
+      }
+    }
+  },
+  "751 (Entry 11)": {
+    "pb": {
+      "rad": {
+        "visit_id": "751",
+        "person_id": "pb",
+        "quantity": "rad",
+        "reading": "4.35"
+      }
+    }
+  },
+  "751 (Entry 12)": {
+    "pb": {
+      "temp": {
+        "visit_id": "751",
+        "person_id": "pb",
+        "quantity": "temp",
+        "reading": "-18.5"
+      }
+    }
+  },
+  "752 (Entry 13)": {
+    "lake": {
+      "rad": {
+        "visit_id": "752",
+        "person_id": "lake",
+        "quantity": "rad",
+        "reading": "2.19"
+      }
+    }
+  },
+  "752 (Entry 14)": {
+    "lake": {
+      "sal": {
+        "visit_id": "752",
+        "person_id": "lake",
+        "quantity": "sal",
+        "reading": "0.09"
+      }
+    }
+  },
+  "752 (Entry 15)": {
+    "lake": {
+      "temp": {
+        "visit_id": "752",
+        "person_id": "lake",
+        "quantity": "temp",
+        "reading": "-16.0"
+      }
+    }
+  },
+  "752 (Entry 16)": {
+    "roe": {
+      "sal": {
+        "visit_id": "752",
+        "person_id": "roe",
+        "quantity": "sal",
+        "reading": "41.6"
+      }
+    }
+  },
+  "837 (Entry 17)": {
+    "lake": {
+      "rad": {
+        "visit_id": "837",
+        "person_id": "lake",
+        "quantity": "rad",
+        "reading": "1.46"
+      }
+    }
+  },
+  "837 (Entry 18)": {
+    "lake": {
+      "sal": {
+        "visit_id": "837",
+        "person_id": "lake",
+        "quantity": "sal",
+        "reading": "0.21"
+      }
+    }
+  },
+  "837 (Entry 19)": {
+    "roe": {
+      "sal": {
+        "visit_id": "837",
+        "person_id": "roe",
+        "quantity": "sal",
+        "reading": "22.5"
+      }
+    }
+  },
+  "844 (Entry 20)": {
+    "roe": {
+      "rad": {
+        "visit_id": "844",
+        "person_id": "roe",
+        "quantity": "rad",
+        "reading": "11.25"
+      }
+    }
+  }
+}
